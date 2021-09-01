@@ -19,3 +19,12 @@ The frontend is using React with React Router, state is manage by a combination 
 ### Explanation ###
 
 The interest in this application has come from a great deal of research and the need to demonstrate a full, end to end application, covering frontend, authentication, backend business logic and data store.
+
+### Project commands ###
+
+Publish application
+```
+    cd project/serverlessFramework
+    serverless deploy
+
+```
